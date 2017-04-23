@@ -75,6 +75,12 @@ blockquote {
   max-height: 100% !important;
   overflow-y: scroll !important; }
 
+.navbar-inverse .navbar-toggle {
+  border-color: #ddcf99; }
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: #8c1515; }
+
 .table tbody tr:hover td, .table tbody tr:hover th {
   background-color: #eee6cb; }
 
