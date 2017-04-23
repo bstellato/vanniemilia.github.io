@@ -54,7 +54,7 @@ blockquote {
     .navbar-inverse .navbar-brand:hover {
       color: white; }
   .navbar-inverse .navbar-nav > li > a {
-    color: #ddcf99; }
+    color: #eee6cb; }
   .navbar-inverse .navbar-nav > li > a:hover,
   .navbar-inverse .navbar-nav > li > a:focus {
     color: white; }
@@ -68,7 +68,6 @@ blockquote {
 .dropdown-menu > li > a {
   color: #ddcf99; }
   .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
-    background-color: #ddcf99;
     color: white;
     background-image: none; }
 
@@ -93,16 +92,16 @@ blockquote {
     word-break: break-all; } }
 footer {
   background-color: #8c1515;
-  color: #ddcf99;
+  color: #eee6cb;
   padding-top: 10px;
   font-size: 12px; }
   footer a {
     font-size: 12px; }
   footer a, footer a:visited {
-    color: #ddcf99;
+    color: #eee6cb;
     text-decoration: none; }
   footer a:hover {
-    color: #eee6cb;
+    color: white;
     text-decoration: none; }
   footer p {
     margin: 0 0 10px 0;
@@ -121,13 +120,13 @@ footer {
   text-align: right;
   padding: 5px 0;
   margin-bottom: 0px;
-  color: #ddcf99;
+  color: #eee6cb;
   background-color: #8c1515; }
   .copyright a, .copyright a:visited {
-    color: #ddcf99;
+    color: #eee6cb;
     text-decoration: none; }
   .copyright a:hover {
-    color: #eee6cb; }
+    color: white; }
 
 /* BibTeX items */
 .bibliography li {
