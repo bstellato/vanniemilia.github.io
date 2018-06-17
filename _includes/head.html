@@ -4,7 +4,7 @@
 
     <link rel="stylesheet" href="/assets/css/style.css">
 
-    <title>{{ page.title | escape }}</title>
+    <title>{{ site.name }} | {{ page.title | escape }}</title>
 
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}

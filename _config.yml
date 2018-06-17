@@ -33,9 +33,9 @@ university_url: https://www.harvard.edu/
 address: >-
   Seeley Mudd Bldg, Room 304 BCMP, 250 Longwood Ave, Boston, MA 02115
 
-# Which folders to include?
-destination: _site
 
+# Technical details
+destination: _site
 include:
     - _pages
     - node_modules
@@ -50,8 +50,6 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-
-# theme: minima
 
 # Sass/SCSS
 sass:
