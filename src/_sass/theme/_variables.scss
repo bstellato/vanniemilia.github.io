@@ -1,0 +1,14 @@
+// Change Bootstrap colors
+$theme-colors: (
+  "dark": rgb(30, 30, 30),  // Harvard Ink
+  "light": rgb(243, 243, 241),  // Harvard Parchment
+  "primary": rgb(165, 28, 48), // Harvard Crimson
+  "secondary": rgb(137, 150, 160),  // Harvard Slate
+  // "light": rgb(240, 238, 231),
+  // "light": rgb(217, 214, 208),
+  );
+
+// Fonts
+$font-family-sans-serif: Open Sans, Helvetica, sans-serif !default;
+
+

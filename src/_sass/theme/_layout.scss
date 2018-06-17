@@ -1,0 +1,66 @@
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex-shrink: 0;
+  font-size: .9rem;
+
+  a {
+    color: $dark;
+}
+}
+
+
+// Footer copyright
+.copyright{
+    font-size: .7rem;
+    text-align: right;
+    a, a:visited {
+	color: $dark;
+	text-decoration: none;
+    }
+    a:hover{
+	color: $secondary;
+	text-decoration: none;
+    }
+}
+
+// Features
+// The board
+.home-section{
+	padding-top: 5rem;
+	padding-top: 5rem;
+	text-align: center;
+	p {
+		font-size:.75rem;
+	}
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+.featurette {
+text-align: left;
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
