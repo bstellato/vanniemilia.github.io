@@ -16,7 +16,7 @@
 title: Emilia Vanni's Website
 description: >- # this means to ignore newlines until "baseurl:"
   Research Fellow in Biological Chemistry
-  and Molecular Pharmacology
+  and Molecular Pharmacology, Harvard Medical School
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vanniemilia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,7 +31,7 @@ university: Harvard University
 university_url: https://www.harvard.edu/
 
 address: >-
-  Seeley Mudd Bldg, Room 304 BCMP, 250 Longwood Ave, Boston, MA 02115
+  Seeley Mudd Bldg, Room 309 BCMP, 250 Longwood Ave, Boston, MA 02115
 
 
 # Technical details
