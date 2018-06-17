@@ -18,10 +18,9 @@ gem "minima", "~> 2.0"
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-# group :jekyll_plugins do
-#   gem "jekyll-feed", "~> 0.6"
-#   gem "jekyll-assets"
-# end
+group :jekyll_plugins do
+  gem "github-pages"
+end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
@@ -30,4 +29,4 @@ gem "minima", "~> 2.0"
 # gem 'jquery-rails'
 # gem 'bootstrap' , '~> 4.1.0'
 
-
+# gem "github-pages", group: :jekyll_plugins
