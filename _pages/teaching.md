@@ -7,11 +7,11 @@ group: "navigation"
 order: 2
 ---
 
-* 2015–current Facilitator: INDE 263, Microbiology and Infectious Diseases I, Stanford School of Medicine
+* 2015–2017 Facilitator: INDE 263, Microbiology and Infectious Diseases I, Stanford School of Medicine
 : Teaching pathogenesis of infectious agents
 : Course with Profs. Manuel Amieva and Sharon Chen and other expert facilitators
 
-* 2015–current Facilitator: INDE 265, Microbiology and Infectious Diseases III, Stanford School of Medicine
+* 2015–2017 Facilitator: INDE 265, Microbiology and Infectious Diseases III, Stanford School of Medicine
 : Teaching pathogenesis of infectious agents
 : Course with Profs. Manuel Amieva and Sharon Chen and other expert facilitators
 
